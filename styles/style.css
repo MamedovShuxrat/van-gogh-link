@@ -98,7 +98,6 @@ button {
   width: 100%;
   margin: 0 auto;
   padding: 0 280px;
-  border: 1px solid;
 }
 
 .header__misc-info {
@@ -272,7 +271,6 @@ button {
        column-gap: 40px;
 }
 .card__item {
-  border: 1px solid;
   width: calc(25% - 20px);
   overflow: hidden;
 }
