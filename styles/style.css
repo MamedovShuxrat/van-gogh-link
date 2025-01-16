@@ -271,7 +271,7 @@ button {
        column-gap: 40px;
 }
 .card__item {
-  width: calc(25% - 20px);
+  width: calc(25% - 30px);
   overflow: hidden;
 }
 .card__item:hover .card__detail {

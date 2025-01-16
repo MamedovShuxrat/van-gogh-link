@@ -250,7 +250,7 @@ button {
     column-gap: 40px;
 
     &__item {
-        width: calc(25% - 20px);
+        width: calc(25% - 30px);
         overflow: hidden;
 
         &:hover .card__detail {
