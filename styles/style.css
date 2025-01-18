@@ -59,10 +59,21 @@ body {
   font-size: 16px;
   color: rgb(30, 30, 30);
   line-height: 22px;
+  display: flex;
+  flex-direction: column;
 }
 
 html {
   scroll-behavior: smooth;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+main {
+  flex: 1;
 }
 
 a {
